@@ -1,23 +1,65 @@
-<h1 align="center">Hi 👋, I'm Lakshitha</h1>
-<h3 align="center">A passionate full Stack developer from Sri Lanka</h3>
+# 👋 Hi, I'm Lakshitha Deshan  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshithad576&label=Profile%20views&color=0e75b6&style=flat" alt="lakshithad576" /> </p>
+🚀 **Software Engineer | Full-Stack Developer | Tech Enthusiast**  
 
-- 🔭 I’m currently working on **Test**
+I’m passionate about building modern **Web Applications** and **Mobile Apps**, exploring new technologies, and contributing to open-source projects.  
 
-- 🌱 I’m currently learning **Advanced React, Vue.js, GSAP Animations, and Cloud/DevOps**
+---
 
-- 👯 I’m looking to collaborate on **Web & Mobile App Development Projects**
+## 🔧 Tech Stack  
 
-- 🤝 I’m looking for help with **Open Source Contributions & Best Practices**
+### 🌐 Frontend  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
 
-- 💬 Ask me about **React, Vue, GSAP, APIs, and Full-Stack Development**
+### ⚙️ Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
 
-- 📫 How to reach me **lakshithad576@gmail.com**
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### ☁️ Cloud & Tools  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
+
+## 📊 GitHub Stats  
+
+![Lakshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshithad576&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshithad576&layout=compact&theme=radical)  
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lakshithad576&theme=radical)  
+
+---
+
+## 🌱 Currently Learning  
+- Advanced React & Vue.js  
+- Cloud & DevOps (AWS, Docker, Kubernetes)  
+- GSAP Animations  
+
+---
+
+## 📫 Connect with Me  
+- 📧 Email: **lakshithad576@gmail.com**  
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 🌐 [Portfolio](https://your-portfolio-link.com)  
+
+---
+
+⭐️ From [lakshithad576](https://github.com/lakshithad576)  
+
